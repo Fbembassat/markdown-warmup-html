@@ -1,16 +1,24 @@
-h1 {
+header h1{
+    text-align: center;
+    color: darkred;
+    border: 10px solid darkred;
+    border-style: double;
+}
+
+h1{
     color: blue;
 }
 
-h2 {
+h2{
     color: crimson;
-}
-
-#border{
-    border: 2px solid black;
-    border-style: dashed;
 }
 
 img{
     border: 5px solid black;
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1555947289-0d851755094e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=632&q=80);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
