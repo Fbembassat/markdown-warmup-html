@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: crimson;
+}
+
+#border{
+    border: 2px solid black;
+    border-style: dashed;
+}
+
+img{
+    border: 5px solid black;
+}
